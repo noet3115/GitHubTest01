@@ -11,6 +11,7 @@ namespace WebApplication1
             ConfigureAuth(app);
             //
             //test update
+            //test 2
         }
     }
 }
